@@ -54,20 +54,18 @@ Bots on Discord, the group messaging platform, are helpful artificial intelligen
     - Finish the installation.
 2. Open Visual Studio Code:
     - Open terminal on VS Code the short cut is <kbd>Ctrl</kbd> <kbd>`</kbd>.
-    - Type
     ```
     git clone https://github.com/patheticcc/botDiscord.git
     ```
-    Make sure you already downloaded Git.
+    - Type above, to clone this repository. Make sure you already downloaded Git.
 3. Edit the configurations:
     - Open `config.json`, and setup your configures.
     - Same as config.json, open `.env` and setup your own.
 4. Open your terminal:
-    - Type
     ```
     nodemon
     ```
-    to run your discord bot.
+    - Type above, to run your discord bot.
     - Make sure you've already invited your bot into your server.
 5. Finish:
     - That's all, you can edit your code do you like.
