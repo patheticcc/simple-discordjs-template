@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Hey, there!
+    Welcome to Discord Bot Template.
 </h1>
 
 <p align='center'>
