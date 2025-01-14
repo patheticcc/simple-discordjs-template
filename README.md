@@ -6,7 +6,7 @@
     This is a code to create a discord bot, I deliberately made it for those of you who are looking for discord bot templates.
 </p>
 
-<p>
+<p align='center'>
     <a href="https://github.com/patheticcc"><img alt='Github' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' /></a>
     &nbsp;
     <a><img alt='Discord' src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' /></a>
@@ -53,13 +53,17 @@ Bots on Discord, the group messaging platform, are helpful artificial intelligen
     - You can [download](https://nodejs.org/en/download) at Google.
     - Finish the installation.
 2. Open Visual Studio Code:
-    - Open terminal on VS Code.
-    - Type ```git clone https://github.com/patheticcc/botDiscord.git```. Make sure you already downloaded Git.
+    - Open terminal on VS Code the short cut is <kbd>Ctrl</kbd> <kbd>`</kbd>.
+    - Type ```
+    git clone https://github.com/patheticcc/botDiscord.git
+    ```. Make sure you already downloaded Git.
 3. Edit the configurations:
     - Open `config.json`, and setup your configures.
     - Same as config.json, open `.env` and setup your own.
 4. Open your terminal:
-    - Type ```nodemon```, to run your discord bot.
+    - Type ```
+    nodemon
+    ```, to run your discord bot.
     - Make sure you've already invited your bot into your server.
 5. Finish:
     - That's all, you can edit your code do you like.
