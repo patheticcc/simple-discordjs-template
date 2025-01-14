@@ -1,0 +1,3 @@
+:a
+nodemon
+goto:a

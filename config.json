@@ -1,0 +1,6 @@
+{
+  "guildID": "SERVER_ID",
+  "tokenID": "TOKEN_BOT",
+  "clientID": "BOT_ID",
+  "ownerBot": "OWNER_USER_ID (optional)"
+}
