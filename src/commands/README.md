@@ -1,10 +1,17 @@
 In this folder, you can share several sections for commands.
 
 Example:
+
 *commands (this folder)
+
 |___
-|   *Administrator
+
+   *Administrator
+
 |___
-|   *Moderator
+
+   *Moderator
+
 |___
-    *Miscellaneous
+
+   *Miscellaneous
