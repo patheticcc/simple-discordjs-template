@@ -1,0 +1,1 @@
+In this directory, you can add the <a href='https://discord.js.org/docs/packages/discord.js/main/ClientEvents:Interface'>Client Events</a>.
